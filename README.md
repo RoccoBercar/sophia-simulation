@@ -17,7 +17,7 @@ Rather than relying on basic Euler integration, S.O.P.H.I.E.A. uses a custom **4
 ## Important Message from me
 
 All explanations and extras are in the report; feel free to explore it! If you have any doubts or want to discuss a bit, please feel free to dm me on Insta
-**I used a lot of AI for syntax errors**, as I had a lot of problems with the coding, but tried my best to always learn with each part and to try to get off this training wheel. This was my first big project, and I wanted to express it with all I learned during my graduation from high school with physics... 
+**I used a lot of AI for syntax errors**, as I had a lot of problems with the coding, but tried my best to always learn with each part and to try to get off this training wheel. This was my first big project, and I wanted to express it with all I learned during my graduation from high school with physics... Also, I my report is based in two reports which are a bit 
 
 
 ---
@@ -38,7 +38,8 @@ All explanations and extras are in the report; feel free to explore it! If you h
 ├── src/
 │   └── main.cpp         
 ├── docs/
-│   └── Report.pdf       
+│   └── Report.pdf
+│   └── Reports.zip
 ├── CMakeLists.txt       
 └── README.md
 

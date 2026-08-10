@@ -26,7 +26,7 @@ All explanations and extras are in the report; feel free to explore it! If you h
 
 ```text
 
-├── include/          )
+├── include/          
 │   ├── assets.hpp        # ASCII graphics and visual banners
 │   ├── electrico.hpp     # Lorentz force and electromagnetic vectors
 │   ├── fisica.hpp        # RK4 integration engine and state derivatives

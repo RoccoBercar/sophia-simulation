@@ -36,10 +36,10 @@ All explanations and extras are in the report; feel free to explore it! If you h
 │   ├── logger.hpp        # Telemetry CSV logging system
 │   └── sonda.hpp         # Probe data structures and environment constants
 ├── src/
-│   └── main.cpp          # Main simulation loop and real-time telemetry stream
+│   └── main.cpp         
 ├── docs/
-│   └── Report.pdf        # Full Computational Physics Analytical Project Report
-├── CMakeLists.txt        # Build system configuration
+│   └── Report.pdf       
+├── CMakeLists.txt       
 └── README.md
 
 

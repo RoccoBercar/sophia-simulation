@@ -1,11 +1,11 @@
 #include <iostream>
 #include <Windows.h>
 #include <iomanip>
-#include "sonda.hpp"
-#include "interface.hpp"
-#include "logger.hpp"
-#include "fisica.hpp"
-#include "assets.hpp"
+#include "/include/sonda.hpp"
+#include "/include/interface.hpp"
+#include "/include/logger.hpp"
+#include "/include/fisica.hpp"
+#include "/include/assets.hpp"
 
 int main() {
     SetConsoleOutputCP(CP_UTF8);

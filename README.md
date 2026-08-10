@@ -22,7 +22,7 @@ All explanations and extras are in the report; feel free to explore it! If you h
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 

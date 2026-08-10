@@ -1,4 +1,4 @@
-#  S.O.P.H.I.E.A. - Europa Deep-Core Exploration Simulation
+#  S.O.P.H.I.E.A
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17%2F20-blue.svg)](https://isocpp.org/)
 [![Physics](https://img.shields.io/badge/Physics-RK4%20Numerical%20Integration-red.svg)]()

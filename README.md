@@ -15,7 +15,7 @@ The simulation seamlessly transitions through four physical environments: the **
 Rather than relying on basic Euler integration, S.O.P.H.I.E.A. uses a custom **4th-Order Runge-Kutta (RK4)** integration algorithm to maintain mathematical stability across extreme boundary transitions (such as hitting high hydrodynamic drag from a vacuum state).
 
 
-All explanations on report
+All explanations and extras are in the report; feel free to explore it! If you have any doubts or want to discuss a bit, please feel free to dm me on Insta
 
 
 ---

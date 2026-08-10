@@ -15,14 +15,15 @@ The simulation seamlessly transitions through four physical environments: the **
 Rather than relying on basic Euler integration, S.O.P.H.I.E.A. uses a custom **4th-Order Runge-Kutta (RK4)** integration algorithm to maintain mathematical stability across extreme boundary transitions (such as hitting high hydrodynamic drag from a vacuum state).
 
 
-## All explanation on report
+All explanations on report
+
 
 ---
 
 ## 📁 Repository Structure
 
 ```text
-.
+
 ├── include/              # Modular C++ header files (Physics, State, I/O)
 │   ├── assets.hpp        # ASCII graphics and visual banners
 │   ├── electrico.hpp     # Lorentz force and electromagnetic vectors
@@ -38,3 +39,5 @@ Rather than relying on basic Euler integration, S.O.P.H.I.E.A. uses a custom **4
 │   └── Report.pdf        # Full Computational Physics Analytical Project Report
 ├── CMakeLists.txt        # Build system configuration
 └── README.md
+
+

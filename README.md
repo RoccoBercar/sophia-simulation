@@ -4,7 +4,7 @@
 [![Physics](https://img.shields.io/badge/Physics-RK4%20Numerical%20Integration-red.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**S.O.P.H.I.E.A.** (*Integrated Mission Control - Europa Deep-Core Exploration*) is a C++17 numerical simulation engine designed to compute the physical descent trajectory of an automated scientific probe dropping into Jupiter's icy moon, **Europa**.
+**S.O.P.H.I.E.A.** (*Integrated Mission Control - Europa Deep-Core Exploration*) is a C++17 numerical simulation engine designed to compute the physical descent trajectory of an automated scientific probe dropping into Jupiter's icy moon, Europa.
 
 The simulation seamlessly transitions through four physical environments: the **vacuum of space**, Europa's **ionosphere**, a **25 km ice shell**, and a **subsurface ocean**.
 
@@ -16,6 +16,7 @@ Rather than relying on basic Euler integration, S.O.P.H.I.E.A. uses a custom **4
 
 
 All explanations and extras are in the report; feel free to explore it! If you have any doubts or want to discuss a bit, please feel free to dm me on Insta
+I used a lot of AI for syntax errors, as I had a lot of problems with the coding, but tried my best to always learn with each part and to try to get off this training well. This was my first big project, and I wanted to express it with all I learned during my graduation from high school with physics... 
 
 
 ---
